@@ -1,6 +1,6 @@
 <?php
 
-namespace Optimus\Architect\ModeResolver;
+namespace viicslen\Architect\ModeResolver;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Collection;

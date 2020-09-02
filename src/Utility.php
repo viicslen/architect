@@ -1,6 +1,6 @@
 <?php
 
-namespace Optimus\Architect;
+namespace viicslen\Architect;
 
 use Illuminate\Database\Eloquent\Model as EloquentModel;
 use Illuminate\Support\Collection;

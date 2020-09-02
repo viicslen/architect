@@ -1,6 +1,6 @@
 <?php
 
-namespace Optimus\Architect\ModeResolver;
+namespace viicslen\Architect\ModeResolver;
 
 use Optimus\Architect\ModeResolver\ModeResolverInterface;
 
@@ -13,7 +13,7 @@ class EmbedModeResolver implements ModeResolverInterface
      * @param  object $object
      * @param  array $root
      * @param  string $fullPropertyPath
-     * @return object                   
+     * @return object
      */
     public function resolve($property, &$object, &$root, $fullPropertyPath)
     {
